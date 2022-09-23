@@ -1,1 +1,1 @@
-shell basics
+holbertonschool-shell
