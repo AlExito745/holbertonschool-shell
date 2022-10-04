@@ -1,2 +1,2 @@
 #!/bin/bash
-function first (BEST="School")
+export BEST="School"
